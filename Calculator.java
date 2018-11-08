@@ -20,5 +20,9 @@ public class Calculator{
     public float division(float a, float b){
         return 0f;
     }
+
+    public float max(float a , float b){
+	return Math.max(a,b);
+}
 	
 }
